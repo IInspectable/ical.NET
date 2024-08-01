@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iCalNET", "iCalNET\iCalNET.csproj", "{ED05568C-92D3-4728-B82E-B225835565B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCalNET.Demo", "iCalNET.Demo\iCalNET.Demo.csproj", "{DFD06F78-C990-4E05-BEFE-9211E807798E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED05568C-92D3-4728-B82E-B225835565B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED05568C-92D3-4728-B82E-B225835565B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED05568C-92D3-4728-B82E-B225835565B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED05568C-92D3-4728-B82E-B225835565B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD06F78-C990-4E05-BEFE-9211E807798E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD06F78-C990-4E05-BEFE-9211E807798E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD06F78-C990-4E05-BEFE-9211E807798E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD06F78-C990-4E05-BEFE-9211E807798E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1614645-43D2-4DD7-B1F9-F42F95040CE4}
+	EndGlobalSection
+EndGlobal
